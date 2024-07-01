@@ -1,0 +1,36 @@
+.signup-container {
+    margin: auto;
+    width: 50%;
+    height: 700px;
+    background-color: white;
+    border: 2px solid grey;
+    border-radius: 20px;
+}
+
+.signup-container h2 {
+    margin: 100px auto 0;
+    text-align: center;   
+}
+.signup-container input {
+    margin: 20px auto;
+    display: block;
+    width: 60%;
+    padding: 20px;
+    border-radius: 15px;
+}
+.signup-container button {
+    background-color: darkblue;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px auto;
+    display: block;
+    padding: 15px;
+    width: 40%;
+}
+.link {
+    margin: 20px !important;
+    display: block !important;
+    text-align: center;
+}
